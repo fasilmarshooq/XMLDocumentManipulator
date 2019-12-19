@@ -1,0 +1,7 @@
+C:\Users\fasil.m\Documents\Visual Studio 2017\Projects\TestAutomationPromoter\TestAutomationPromoter\bin\Debug\TestAutomationPromoter.exe.config
+C:\Users\fasil.m\Documents\Visual Studio 2017\Projects\TestAutomationPromoter\TestAutomationPromoter\bin\Debug\TestAutomationPromoter.exe
+C:\Users\fasil.m\Documents\Visual Studio 2017\Projects\TestAutomationPromoter\TestAutomationPromoter\bin\Debug\TestAutomationPromoter.pdb
+C:\Users\fasil.m\Documents\Visual Studio 2017\Projects\TestAutomationPromoter\TestAutomationPromoter\obj\Debug\TestAutomationPromoter.csprojAssemblyReference.cache
+C:\Users\fasil.m\Documents\Visual Studio 2017\Projects\TestAutomationPromoter\TestAutomationPromoter\obj\Debug\TestAutomationPromoter.csproj.CoreCompileInputs.cache
+C:\Users\fasil.m\Documents\Visual Studio 2017\Projects\TestAutomationPromoter\TestAutomationPromoter\obj\Debug\TestAutomationPromoter.exe
+C:\Users\fasil.m\Documents\Visual Studio 2017\Projects\TestAutomationPromoter\TestAutomationPromoter\obj\Debug\TestAutomationPromoter.pdb
